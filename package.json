@@ -1,0 +1,26 @@
+{
+  "name": "learning-thebridgedev",
+  "version": "1.0.0",
+  "description": "Documentation and general learning process for a programmer working with artificial intelligence",
+  "homepage": "https://github.com/David-TheBridgeDev/Learning-TheBridgeDev#readme",
+  "Questions?": {
+    "url": "https://github.com/David-TheBridgeDev/Learning-TheBridgeDev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-TheBridgeDev/Learning-TheBridgeDev.git"
+  },
+  "license": "MIT License",
+  "author": "David Ramos Perdomo",
+  "scripts": {
+    "lint:md": "markdownlint --ignore node_modules",
+    "lint:fix": "markdownlint --fix --ignore node_modules",
+    "format": "prettier --write \"**/*.md\"",
+    "fix": "npm run lint:fix && npm run format"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.40.0",
+    "markdownlint-cli": "^0.44.0",
+    "prettier": "^3.5.0"
+  }
+}

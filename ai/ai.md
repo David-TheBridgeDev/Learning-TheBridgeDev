@@ -1,4 +1,5 @@
-1. Fundamentos de IA, Estrategia y Casos de Negocio (IA Estratégica Transformación Digital Business Case)
+Fundamentos de IA, Estrategia y Casos de Negocio (IA Estratégica Transformación
+Digital Business Case)
 
 1.1. Panorama de la IA
 
@@ -31,7 +32,7 @@
 
     2.1.1. Tokenización y representación del lenguaje
     2.1.2. Embeddings y gestión del contexto
-    2.1.3. Parámetros de generación: temperatura, top-p, top-k, longitud máxima. 
+    2.1.3. Parámetros de generación: temperatura, top-p, top-k, longitud máxima.
     2.1.4. Cómo generan texto los LLMs
     2.1.5. Control de la generación en sistemas reales
 
@@ -52,7 +53,8 @@
     2.3.4. Privacidad y arquitectura de despliegue
     2.3.5. Escenarios de uso: cuándo usar la nube pública
 
-3. Outputs Profesionales y Estandarización Documental (Automatización Documental Calidad de Output)
+3. Outputs Profesionales y Estandarización Documental (Automatización Documental
+   Calidad de Output)
 
 3.1. Ingeniería de Outputs Corporativos
 
@@ -92,7 +94,8 @@
     3.4.1. Automatización de informes ejecutivos con IA
     3.4.2. Generación y validación de documentos profesionales a escala (briefings, memos y análisis)
 
-4. Asistentes Corporativos y Arquitectura RAG (Asistentes Corporativos y Arquitectura RAG)
+4. Asistentes Corporativos y Arquitectura RAG (Asistentes Corporativos y
+   Arquitectura RAG)
 
 4.1. Fundamentos de RAG
 
@@ -127,7 +130,8 @@
     4.3.8. Métricas de evaluación: precisión, relevancia y cobertura
     4.3.9. Benchmark y testing de un asistente RAG
 
-5. Analítica de Datos Asistida y Cuadros de Mando (Data & Analytics Business Intelligence Insights Automáticos)
+5. Analítica de Datos Asistida y Cuadros de Mando (Data & Analytics Business
+   Intelligence Insights Automáticos)
 
 5.1. Preparación de Datos Corporativos (Data Prep)
 
@@ -202,8 +206,8 @@
     6.3.5. Sistemas de alertas de fallo (email, Slack, Teams)
     6.3.6. Testing de flujos: simulación, edge cases y validación pre-producción.
 
-
-7. Agentes Departamentales y Flujos Autónomos (IA Agéntica Tool Calling Human-in-the-Loop)
+7. Agentes Departamentales y Flujos Autónomos (IA Agéntica Tool Calling
+   Human-in-the-Loop)
 
 7.1. Anatomía de un Agente de IA
 
@@ -238,14 +242,15 @@
     7.3.5. Implementación de un flujo HITL con validación humana
     7.3.6. Gestión de riesgos en agentes: fallos, límites operativos y mecanismos de contención
 
-8. Multimodalidad Avanzada Aplicada a Operaciones (IA GenerativaVisión IAMultimodal)
+8. Multimodalidad Avanzada Aplicada a Operaciones (IA GenerativaVisión
+   IAMultimodal)
 
 8.1. Visión por IA Aplicada a Operaciones
 
     8.1.1. Capacidades actuales de los modelos Vision: GPT-4o, Gemini Pro Vision, Claude Sonnet
     8.1.2. Diseño de prompts visuales: extracción de datos de planos técnicos, diagramas, tablas fotografiadas
     8.1.3. Extracción de información de planos técnicos, diagramas y tablas fotografiadas
-    8.1.4. OCR inteligente: de la lectura de texto a la comprensión semántica de documentos escaneados. 
+    8.1.4. OCR inteligente: de la lectura de texto a la comprensión semántica de documentos escaneados.
 
 8.2. Audio y Voz
 
@@ -260,7 +265,8 @@
     8.3.2. Casos de uso: acta de reunión (audio) + pizarra (foto) + presentación (PDF) → tickets delegados
     8.3.3. Limitaciones actuales: alucinaciones visuales, errores de transcripción e integración de contexto
 
-9. Implementación Profesional, Gobernanza y Gestión del Cambio (AI Governance Compliance Adopción Empresarial)
+9. Implementación Profesional, Gobernanza y Gestión del Cambio (AI Governance
+   Compliance Adopción Empresarial)
 
 9.1. Gobernanza y Ética Legal
 
@@ -284,7 +290,8 @@
     9.3.3. Superación de la fricción tecnológica: resistencia, miedos y objeciones comunes
     9.3.4. Métricas de adopción: tasa de uso, satisfacción, reducción de tiempo y errores
 
-10. Productividad y Organización con IA (Automatización Personal Organización Inteligente)
+10. Productividad y Organización con IA (Automatización Personal Organización
+    Inteligente)
 
 10.1. Detección de tareas optimizables para el trabajo diario
 
@@ -313,7 +320,8 @@
     10.3.7. Implementación del agente en Copilot Notebook y conexión con datos o documentos
     10.3.8. Prueba del agente con casos reales y optimización del flujo automatizado
 
-11. Marketing y creación de contenido con IA (Content AI SEO & LLMs Marketing Automation)
+11. Marketing y creación de contenido con IA (Content AI SEO & LLMs Marketing
+    Automation)
 
 11.1. Diseño de estrategia de Contenidos
 
@@ -371,7 +379,8 @@
         12.2.4.2. Preparación de un discurso profesional (pitch personal)
         12.2.4.3. «Cómo comunicar tu valor profesional para destacar y conseguir oportunidades»
 
-13. IA Aplicada al Análisis Financiero (Finanzas con IA Research Financiero Gestión de Riesgo)
+13. IA Aplicada al Análisis Financiero (Finanzas con IA Research Financiero
+    Gestión de Riesgo)
 
 13.1. Fundamentos del análisis financiero con IA
 
