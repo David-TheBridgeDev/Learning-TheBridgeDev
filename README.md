@@ -28,9 +28,21 @@ Puedes ejecutar estos comandos desde la terminal:
 
 ## 📚 Estructura del Proyecto
 
-- `/ai`: Documentación específica sobre modelos LLM, RAG y automatizaciones.
+- `/AI`: Documentación específica sobre modelos LLM, RAG y automatizaciones.
+- `/Software Engineering`: Guías de referencia para desarrollo Back-end, Front-end y Movilidad.
 - `AGENTS.md`: Directrices críticas para asistentes de IA (Contexto, Estilo y Estándares).
 - `GEMINI.md`: Guía de referencia rápida para el asistente del proyecto.
+
+## 📖 Guías Técnicas
+
+| Categoría | Recurso | Descripción |
+| :--- | :--- | :--- |
+| **Inteligencia Artificial** | [Enterprise AI Blueprint](./AI/BlueprintForEnterpriseAI.md) | Hoja de ruta estratégica para implementar IA en entornos corporativos. |
+| **Inteligencia Artificial** | [Glosario de IA](./AI/Glossary.md) | Conceptos fundamentales: RAG, Agentes, HITL y más. |
+| **Inteligencia Artificial** | [Transformer Architecture](./AI/TheTransformerArchitecture.md) | Análisis profundo de la arquitectura que revolucionó el NLP. |
+| **Back-end** | [Java Guide](./Software%20Engineering/back-end/JAVA.md) | Ecosistema Java, arquitectura JVM y Modern Java (Java 8+). |
+| **Front-end** | [Angular Guide](./Software%20Engineering/front-end/ANGULAR.md) | Desarrollo empresarial con Angular, Signals y Standalone Components. |
+| **Mobility** | [Flutter Guide](./Software%20Engineering/mobility/FLUTTER.md) | Desarrollo multiplataforma nativo mediante composición de Widgets. |
 
 ---
 
