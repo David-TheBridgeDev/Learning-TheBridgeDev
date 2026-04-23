@@ -131,4 +131,7 @@ dist/
 .DS_Store
 Thumbs.db
 
+# Ignore files containing "david ramos" (case-insensitive)
+*[Dd][Aa][Vv][Ii][Dd] [Rr][Aa][Mm][Oo][Ss]*
+
 .ignore
